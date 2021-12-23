@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png");
+    display: flex;
+    justify-content: center;
+ 
+    font-family: serif;
+    font-size: 100px;
+    color:white;
+   font-weight: 900;
+
+  }
+  
